@@ -1,0 +1,12 @@
+# Private capture material and machine-specific state
+/capture/captures/
+/capture/logs/
+/.venv*/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.mkv
+*.bin
+*.exe
+*keylog*
